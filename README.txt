@@ -1,2 +1,0 @@
-# JavaWebSS
-hello
